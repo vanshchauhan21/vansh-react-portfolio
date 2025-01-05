@@ -233,6 +233,41 @@ export const experiences = [
     doc: "https://drive.google.com/file/d/19tGLRe-sJl2qsY3ebSsGpVoC8igCwy3l/view?usp=sharing",
   },
   {
+    id: 22,
+    img: "https://github.com/vanshchauhan21/Certificate/blob/main/logo-1.png?raw=true",
+    role: "Mentor",
+    company: "Social Winter of Code (SWOC)",
+    date: "25 November 2025",
+    desc: "Guided and supported contributors in an open-source program focused on community development.Provided mentorship in web design and development using React.js and the MERN stack, helping participants achieve their project goals.Fostered collaboration and skill-building in a dynamic, contributor-driven environment.",
+    skills: [
+       "Open-Source Project Management"
+"Technical Mentorship and Leadership"
+"Collaboration and Team Coordination"
+       "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+    
+      
+    ],  
+    doc: "https://github.com/vanshchauhan21/Certificate/blob/main/logo-1.png?raw=true",
+  },{
+    id: 22,
+    img: "https://github.com/vanshchauhan21/Certificate/blob/main/Vansh%20Chauhan_Cert_Project%20Admin_GSSoC2024Extd.png?raw=true",
+    role: "Project Admin",
+    company: "GirlScript Summer of Code ",
+    date: "24 Oct 2024 - 25 November 2024",
+    desc: "Led and managed open-source projects within the program, ensuring contributors achieved their goals.Provided technical guidance in web development using React.js and the MERN stack to facilitate meaningful contributions.Coordinated with contributors and mentors, fostering collaboration and driving project success in a contributor-focused environment.",
+    skills: [
+       "Open-Source Project Management"
+"Technical Mentorship and Leadership"
+"Collaboration and Team Coordination"
+"Problem-Solving and Code Review"
+"Communication and Stakeholder Management"
+      
+    ],  
+    doc: "https://github.com/vanshchauhan21/Certificate/blob/main/Vansh%20Chauhan_Cert_Project%20Admin_GSSoC2024Extd.png?raw=true",
+  },
+  {
     id: 2,
     img: "https://edunetfoundation.org/wp-content/uploads/2022/06/edunet-logo-white.png",
     role: "Trainee",
@@ -249,24 +284,7 @@ export const experiences = [
     ],  
     doc: "https://edunetfoundation.org/wp-content/uploads/2022/06/edunet-logo-white.png",
   },
-  {
-    id: 22,
-    img: "https://github.com/vanshchauhan21/Certificate/blob/main/logo-1.png?raw=true",
-    role: "Mentor",
-    company: "Social Winter of Code (SWOC)",
-    date: "25 November 2025",
-    desc: "Guided and supported contributors in an open-source program focused on community development.Provided mentorship in web design and development using React.js and the MERN stack, helping participants achieve their project goals.Fostered collaboration and skill-building in a dynamic, contributor-driven environment.",
-    skills: [
-       "ReactJS",
-      "JavaScript",
-      "NodeJS",
-      "ExpressJS",
-      "HTML",
-      "CSS"
-      
-    ],  
-    doc: "https://github.com/vanshchauhan21/Certificate/blob/main/logo-1.png?raw=true",
-  },
+  
   {
     id: 3,
     img: "https://github.com/vanshchauhan21/certficates/blob/main/IMG_20240424_224436~2.jpg?raw=true",
