@@ -380,6 +380,23 @@ export const education = [
 ];
 
 export const projects = [
+   {
+    id: 1,
+    title: "Pika-UI",
+    date: "sep 2024 - Dec 2024",
+    description:
+      "Browse and discover our beautifully designed UI components. Get inspired and use them in your projects.",
+    image:
+    "https://github.com/vanshchauhan21/vanshchauhan21/blob/main/Pika%20UI.png?raw=true",
+    tags: [
+      "React Js",
+      "Next js",
+     
+    ],
+    category: "web app",
+    github: "https://github.com/vanshchauhan21/UI_Library-main",
+    webapp: "https://pika-ui.vercel.app/",
+  },
   {
     id: 11,
     title: "ATSResume Maker",
@@ -400,8 +417,37 @@ export const projects = [
     github: "https://github.com/vanshchauhan21/ATSResume.git",
     webapp: "https://ats-resume-one.vercel.app/",
     
+  }, {
+    id: 9,
+    title: "Code Editor",
+    date: "oct 2023 - April 2024",
+    description:
+      "Vortex Code: A Powerful Online Code Editor Built with React.js* Create a playground area where one can create multiple code snippets and run it using an online compiler and execution system.",
+    image:
+      
+      "https://github.com/vanshchauhan21/vanshchauhan21/blob/main/vortex.png?raw=true",
+    tags: [
+     
+    ],
+    category: "web app",
+    github: "https://github.com/vanshchauhan21/Vortex-IDE",
+    webapp: "https://vortex-ide.vercel.app/",
   },
+  
   {
+    id: 0,
+    title: "github-profile-readme-generator",
+    date: "Dec 2023 - Feb 2024",
+    description:
+      "You can share information about yourself with the community on GitHub by creating a profile README. GitHub shows your profile README at the top of your profile page. You decide what information to include in your profile README, so you have full control over how you present yourself on GitHub.",
+    image:
+      "https://github.com/vanshchauhan21/github-profile-readme-generator/raw/main/Screenshot%20(14).png?raw=true",
+    tags: ["NextJS","ReactJS", "CSS", "Material UI"],
+    category: "web app",
+    github: "https://github.com/vanshchauhan21/github-profile-readme-generator.git",
+    webapp: "https://github-profile-readme-generator-iota.vercel.app/",
+    
+  },{
     id: 9,
     title: "ozippa",
     date: "oct 2023 - April 2024",
@@ -420,20 +466,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/vanshchauhan21",
     webapp: "https://ozippa.com/",
-  },
-  {
-    id: 0,
-    title: "github-profile-readme-generator",
-    date: "Dec 2023 - Feb 2024",
-    description:
-      "You can share information about yourself with the community on GitHub by creating a profile README. GitHub shows your profile README at the top of your profile page. You decide what information to include in your profile README, so you have full control over how you present yourself on GitHub.",
-    image:
-      "https://github.com/vanshchauhan21/github-profile-readme-generator/raw/main/Screenshot%20(14).png?raw=true",
-    tags: ["NextJS","ReactJS", "CSS", "Material UI"],
-    category: "web app",
-    github: "https://github.com/vanshchauhan21/github-profile-readme-generator.git",
-    webapp: "https://github-profile-readme-generator-iota.vercel.app/",
-    
   },
   {
     id: 1,
