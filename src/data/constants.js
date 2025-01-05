@@ -250,6 +250,24 @@ export const experiences = [
     doc: "https://edunetfoundation.org/wp-content/uploads/2022/06/edunet-logo-white.png",
   },
   {
+    id: 22,
+    img: "https://github.com/vanshchauhan21/Certificate/blob/main/logo-1.png?raw=true",
+    role: "Mentor",
+    company: "Social Winter of Code (SWOC)",
+    date: "25 November 2025",
+    desc: "Guided and supported contributors in an open-source program focused on community development.Provided mentorship in web design and development using React.js and the MERN stack, helping participants achieve their project goals.Fostered collaboration and skill-building in a dynamic, contributor-driven environment.",
+    skills: [
+       "ReactJS",
+      "JavaScript",
+      "NodeJS",
+      "ExpressJS",
+      "HTML",
+      "CSS"
+      
+    ],  
+    doc: "https://github.com/vanshchauhan21/Certificate/blob/main/logo-1.png?raw=true",
+  },
+  {
     id: 3,
     img: "https://github.com/vanshchauhan21/certficates/blob/main/IMG_20240424_224436~2.jpg?raw=true",
     role: " Trainee",
