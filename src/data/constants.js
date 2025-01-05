@@ -191,6 +191,26 @@ export const skills = [
 ];
 
 export const experiences = [
+
+   {
+    id: 22,
+    img: "https://github.com/vanshchauhan21/Certificate/blob/main/logo-1.png?raw=true",
+    role: "Mentor",
+    company: "Social Winter of Code (SWOC)",
+    date: "25 November 2025",
+    desc: "Guided and supported contributors in an open-source program focused on community development.Provided mentorship in web design and development using React.js and the MERN stack, helping participants achieve their project goals.Fostered collaboration and skill-building in a dynamic, contributor-driven environment.",
+    skills: [
+       "Open-Source Project Management",
+"Technical Mentorship and Leadership",
+"Collaboration and Team Coordination",
+       "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+    
+      
+    ],  
+    doc: "https://github.com/vanshchauhan21/Certificate/blob/main/logo-1.png?raw=true",
+  },
   {
     id: 0,
     img: "http://www.dharasoftware.com/wp-content/uploads/2023/04/logo.png",
@@ -232,25 +252,7 @@ export const experiences = [
     ],  
     doc: "https://drive.google.com/file/d/19tGLRe-sJl2qsY3ebSsGpVoC8igCwy3l/view?usp=sharing",
   },
-  {
-    id: 22,
-    img: "https://github.com/vanshchauhan21/Certificate/blob/main/logo-1.png?raw=true",
-    role: "Mentor",
-    company: "Social Winter of Code (SWOC)",
-    date: "25 November 2025",
-    desc: "Guided and supported contributors in an open-source program focused on community development.Provided mentorship in web design and development using React.js and the MERN stack, helping participants achieve their project goals.Fostered collaboration and skill-building in a dynamic, contributor-driven environment.",
-    skills: [
-       "Open-Source Project Management",
-"Technical Mentorship and Leadership",
-"Collaboration and Team Coordination",
-       "ReactJS",
-      "NodeJS",
-      "ExpressJS",
-    
-      
-    ],  
-    doc: "https://github.com/vanshchauhan21/Certificate/blob/main/logo-1.png?raw=true",
-  },{
+ {
     id: 22,
     img: "https://github.com/vanshchauhan21/Certificate/blob/main/Vansh%20Chauhan_Cert_Project%20Admin_GSSoC2024Extd.png?raw=true",
     role: "Project Admin",
