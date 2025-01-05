@@ -303,7 +303,24 @@ export const experiences = [
     ],  
     doc: "https://edunetfoundation.org/wp-content/uploads/2022/06/edunet-logo-white.png",
   },
-  
+
+  {
+    id: 3,
+    img: "https://github.com/vanshchauhan21/Certificate/blob/main/1727714956180.jpg?raw=true",
+    role: " Project Admin",
+    company: "Winter Of Blockchain",
+    date: "Aug 2024 - Oct 2024",
+    desc: "Leveraged strong leadership and organizational skills to manage project timelines, resolve challenges, and foster a positive, contributor-focused environment.Facilitated collaboration among contributors and mentors, driving effective communication, code reviews, and project success. ",
+    skills: [
+      "Open-Source Project Management",
+"Technical Mentorship and Leadership",
+"Collaboration & Leadership",
+"Problem-Solving and Code Review",
+"Code Review & Quality Assurance",
+      
+    ],
+    doc: "https://github.com/vanshchauhan21/Certificate/blob/main/1727714956180.jpg?raw=true",
+  },
   {
     id: 3,
     img: "https://github.com/vanshchauhan21/certficates/blob/main/IMG_20240424_224436~2.jpg?raw=true",
