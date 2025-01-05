@@ -275,11 +275,11 @@ export const experiences = [
     date: "November 2024",
     desc: "Led and managed open-source projects within the program, ensuring contributors achieved their goals.Provided technical guidance in web development using React.js and the MERN stack to facilitate meaningful contributions.Coordinated with contributors and mentors, fostering collaboration and driving project success in a contributor-focused environment.",
     skills: [
-       "Open-Source Management"
-"Technical Mentorship and Leadership"
-"Collaboration and Team Coordination"
-"Problem-Solving and Code Review"
-"Communication and Stakeholder Management"
+       "Open-Source Management",
+"Technical Mentorship and Leadership",
+"Collaboration and Team Coordination",
+"Problem-Solving and Code Review",
+"Communication and Stakeholder Management",
       
     ],  
     doc: "https://github.com/vanshchauhan21/Certificate/blob/main/1733642745486.jpg?raw=true",
