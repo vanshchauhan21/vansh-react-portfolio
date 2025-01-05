@@ -267,7 +267,7 @@ export const experiences = [
     ],  
     doc: "https://github.com/vanshchauhan21/Certificate/blob/main/Vansh%20Chauhan_Cert_Project%20Admin_GSSoC2024Extd.png?raw=true",
   },
-  },{
+  {
     id: 22,
     img: "https://github.com/vanshchauhan21/Certificate/blob/main/1733642745486.jpg?raw=true",
     role: "Mentor",
