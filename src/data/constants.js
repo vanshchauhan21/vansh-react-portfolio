@@ -10,7 +10,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/vanshchauhan21",
-  resume:"https://drive.google.com/file/d/1TmkkgWBtCGChaNZKQmBAaTfSseZgIodY/view?usp=drivesdk",
+  resume:"https://drive.google.com/file/d/1u6OHQLfVmeDgo-wISMppcEKztQAjcveO/view?usp=drivesdk",
   certi:"https://docs.google.com/document/d/1aqzcUIm-Sg3_DFZ5S1-FLwPJoh6axSrdDNt7PABAZWY/edit?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vansh-chauhan-6aa684281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/",
   insta: "https://www.instagram.com/_vansh_rajput123/?igsh=MWxiMWEybzB3YTlzZw%3D%3D",
