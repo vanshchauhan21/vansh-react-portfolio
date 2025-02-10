@@ -203,9 +203,7 @@ export const experiences = [
        "Open-Source Project Management",
 "Technical Mentorship and Leadership",
 "Collaboration and Team Coordination",
-       "ReactJS",
-      "NodeJS",
-      "ExpressJS",
+      
     
       
     ],  
