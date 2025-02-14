@@ -198,11 +198,7 @@ export const experiences = [
     role: "Project admin",
     company: "Social Winter of Code (SWOC)",
     date: "january 2025",
-    desc: "Guided and supported contributors in an open-source program focused on community development.Provided mentorship in web design and development using React.js and the MERN stack, helping participants achieve their project goals.Fostered collaboration and skill-building in a dynamic, contributor-driven environment.",
-    skills: [
-       "Open-Source Project Management",
-"Technical Mentorship and Leadership",
-"Collaboration and Team Coordination",
+    desc: "Guided and supported contributors in an open-source program focused on community development.Problem-Solving and Code Review ,Code Review & Quality AssuranceOpen-Source Project Management ,Technical Mentorship and Leadership, Collaboration and Team Coordination",
       
     
       
