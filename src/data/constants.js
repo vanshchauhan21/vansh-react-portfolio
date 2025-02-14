@@ -195,7 +195,7 @@ export const experiences = [
    {
     id: 22,
     img: "https://github.com/vanshchauhan21/Certificate/blob/main/logo-1.png?raw=true",
-    role: "Mentor",
+    role: "Project admin",
     company: "Social Winter of Code (SWOC)",
     date: "january 2025",
     desc: "Guided and supported contributors in an open-source program focused on community development.Provided mentorship in web design and development using React.js and the MERN stack, helping participants achieve their project goals.Fostered collaboration and skill-building in a dynamic, contributor-driven environment.",
